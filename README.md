@@ -13,11 +13,12 @@ Democratizar a venda de carros, criando um mercado peer-to-peer transparente, ef
 - Mecanismo de escrow para proteger as transações;
 - Comunidade de entusiastas de carros para troca de informações e dicas.
 
+###_Links para a Home_###
 ### Servidor Discord:
 - [Link para o servidor Discord](https://discord.com)
 
 ### Conta no Twitter:
-- [@CarDAO](https://twitter.com/CarDAO)
+- [@CarDAO](https://twitter.com)
 
 ### Token de Governança: 
 $CAR
